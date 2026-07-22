@@ -1,4 +1,10 @@
-Hi 👋, I'm Rajesh Runiwal
+RAJESH RUNIWAL
+
+Backend Engineer
+
+Node.js | NestJS | AWS | PostgreSQL | Redis
+
+Building Scalable Systems
 
 <!--
 **Notrajesh17/Notrajesh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
