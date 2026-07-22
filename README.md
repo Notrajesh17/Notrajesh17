@@ -53,7 +53,7 @@
 
 # 📈 Profile Summary
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Notrajesh17&theme=tokyonight"/>
 
@@ -73,7 +73,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Notrajesh17&theme=tokyonight"/>
 
-</p>
+</p> -->
 
 
 # 🌐 Connect With Me
