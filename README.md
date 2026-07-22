@@ -14,3 +14,69 @@
 - 📫 Reach me at **rajeshjobcareer@gmail.com**
 
 - 🌐 Portfolio **Coming Soon**
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<a href="https://nodejs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://nestjs.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.typescriptlang.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.postgresql.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://redis.io">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.docker.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://aws.amazon.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+</a>
+
+<a href="https://nginx.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://postman.com">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+</a>
+
+<a href="https://swagger.io">
+<img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" width="45" height="45"/>
+</a>
+
+<a href="https://react.dev">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://nextjs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+</a>
+
+</p>
