@@ -1,22 +1,35 @@
-RAJESH RUNIWAL
+<h1 align="center">Hi 👋, I'm Rajesh Runiwal</h1>
+<h3 align="center">A Backend Software Engineer from India 🇮🇳</h3>
 
-Backend Engineer
+---
 
-Node.js | NestJS | AWS | PostgreSQL | Redis
+- 🔭 I’m currently working as a **Senior Software Engineer**
 
-Building Scalable Systems
+- 🌱 I’m currently learning **System Design, Kubernetes, Kafka**
 
-<!--
-**Notrajesh17/Notrajesh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **NestJS, Node.js, PostgreSQL, Redis, AWS, Microservices**
 
-Here are some ideas to get you started:
+- 📫 Reach me at **rajeshjobcareer@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love solving backend scalability problems and DSA.
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="blank">
+<img align="center"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+height="30"
+width="40" />
+</a>
+
+<a href="YOUR_GITHUB_URL" target="blank">
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+height="30"
+width="40" />
+</a>
+
+</p>
