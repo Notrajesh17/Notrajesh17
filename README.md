@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Backend+Software+Engineer;NestJS+%7C+Node.js+%7C+TypeScript;Microservices+%7C+Redis+%7C+PostgreSQL;AWS+%7C+Docker+%7C+System+Design;600%2B+DSA+Problems+Solved" />
 </p>
 
-<p align="center">
+<!-- <p align="center"> -->
 <img src="https://komarev.com/ghpvc/?username=Notrajesh17&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
