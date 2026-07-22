@@ -1,171 +1,64 @@
-<h1 align="center">Hi 👋, I'm Rajesh Runiwal</h1>
+----------------------------------------------------
+Hi 👋, I'm Rajesh Runiwal
 
-<h3 align="center">
-Backend Engineer • Microservices • Distributed Systems • AWS
-</h3>
+A passionate Backend Engineer from India 🇮🇳
 
-<p align="center">
-Building scalable backend systems with NestJS, PostgreSQL, Redis & AWS.
-Passionate about System Design and High Performance APIs.
-</p>
+Profile Views
 
----
+• 🌱 Currently learning Kubernetes, Kafka & Go
 
-## 👨‍💻 About Me
+• 💬 Ask me about
+  NestJS, Node.js, PostgreSQL,
+  Redis, AWS, Docker,
+  Microservices, System Design
 
-I'm a Backend Software Engineer with 3+ years of experience building
-production-grade applications used by thousands of users.
+• 📚 Solved 600+ DSA Problems
 
-Currently working as a Senior Software Engineer where I design scalable
-backend services, optimize databases, and build cloud-native applications.
+• 📫 Email
 
-I enjoy solving engineering problems related to:
+• 🌐 Portfolio
 
-• Distributed Systems
-• Microservices
-• Performance Optimization
-• Database Design
-• System Design
-• Cloud Infrastructure
+----------------------------------------------------
 
----
+Languages & Tools
 
-## 🚀 Professional Experience
+(Node.js logo)
+(NestJS logo)
+(TypeScript logo)
+(JavaScript logo)
+(PostgreSQL logo)
+(Redis logo)
+(Docker logo)
+(AWS logo)
+(Nginx logo)
+(Git logo)
+(GitHub logo)
+(Postman logo)
+(Swagger logo)
+(React logo)
+(Next.js logo)
+(Linux logo)
 
-🏢 Senior Software Engineer @ Febstone Fashion
+----------------------------------------------------
 
-• Built a multi-vendor e-commerce platform
-• Inventory Management
-• Order Management
-• Pricing Engine
-• Promotions
-• Payment Workflow
+GitHub Stats
 
-🏢 Senior Software Engineer @ Taskar
+GitHub Streak
 
-• Scalable REST APIs
-• JWT Authentication
-• Redis Cache
-• Docker
-• AWS ECS
-• WebSockets
-• PostgreSQL
+Top Languages
 
-🏢 Software Engineer @ Tata 1mg
+----------------------------------------------------
 
-• Monolith → Microservices Migration
-• Strangler Fig Pattern
-• Production Rollout
-• Python Backend APIs
+Contribution Graph
 
----
+----------------------------------------------------
 
-## 🛠 Tech Stack
+Pinned Projects
 
-Backend
-
-Node.js • NestJS • Express
-
-Languages
-
-TypeScript • JavaScript • SQL • C++ • Java
-
-Database
-
-PostgreSQL • Redis
-
-Cloud
-
-AWS EC2
-AWS ECS
-Lambda
-RDS
-S3
-
-Architecture
-
-Microservices
-Caching
-Scaling
-Load Balancing
-RBAC
-JWT
-REST APIs
-
-DevOps
-
-Docker
-GitHub Actions
-Nginx
-
----
-
-## 📚 Currently Learning
-
-• Kubernetes
-
-• Kafka
-
-• Distributed Systems
-
-• Advanced System Design
-
----
-
-## 🏆 Achievements
-
-🏅 LeetCode Knight
-
-🏅 CodeChef 5★
-
-🏅 Codeforces Expert
-
-💻 600+ DSA Problems Solved
-
----
-
-## 🌱 2026 Goals
-
-✅ Learn Kubernetes
-
-✅ Learn Kafka
-
-✅ Build a SaaS Product
-
-✅ Contribute to Open Source
-
----
-
-## 💬 Ask Me About
-
-NestJS
-
-Node.js
-
-Redis
-
-AWS
-
-System Design
-
-PostgreSQL
-
-Microservices
-
-Docker
-
----
-
-## 📫 Connect
-
-LinkedIn
-
-Email
-
-Portfolio
+----------------------------------------------------
 
 LeetCode
-
 CodeChef
-
 Codeforces
+
+----------------------------------------------------
