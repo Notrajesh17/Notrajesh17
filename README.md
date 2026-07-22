@@ -75,17 +75,6 @@
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Notrajesh17/Notrajesh17/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
