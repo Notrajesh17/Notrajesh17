@@ -1,64 +1,16 @@
-----------------------------------------------------
-Hi 👋, I'm Rajesh Runiwal
+<h1 align="center">Hi 👋, I'm Rajesh Runiwal</h1>
+<h3 align="center">A passionate Backend Engineer from India 🇮🇳</h3>
 
-A passionate Backend Engineer from India 🇮🇳
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Notrajesh17&label=Profile%20views&color=0e75b6&style=flat" alt="Notrajesh17" />
+</p>
 
-Profile Views
+- 🌱 I'm currently learning **Kubernetes, Kafka & Go**
 
-• 🌱 Currently learning Kubernetes, Kafka & Go
+- 💬 Ask me about **NestJS, Node.js, PostgreSQL, Redis, AWS, Docker, Microservices**
 
-• 💬 Ask me about
-  NestJS, Node.js, PostgreSQL,
-  Redis, AWS, Docker,
-  Microservices, System Design
+- 📚 Solved **600+ DSA Problems**
 
-• 📚 Solved 600+ DSA Problems
+- 📫 Reach me at **rajeshjobcareer@gmail.com**
 
-• 📫 Email
-
-• 🌐 Portfolio
-
-----------------------------------------------------
-
-Languages & Tools
-
-(Node.js logo)
-(NestJS logo)
-(TypeScript logo)
-(JavaScript logo)
-(PostgreSQL logo)
-(Redis logo)
-(Docker logo)
-(AWS logo)
-(Nginx logo)
-(Git logo)
-(GitHub logo)
-(Postman logo)
-(Swagger logo)
-(React logo)
-(Next.js logo)
-(Linux logo)
-
-----------------------------------------------------
-
-GitHub Stats
-
-GitHub Streak
-
-Top Languages
-
-----------------------------------------------------
-
-Contribution Graph
-
-----------------------------------------------------
-
-Pinned Projects
-
-----------------------------------------------------
-
-LeetCode
-CodeChef
-Codeforces
-
-----------------------------------------------------
+- 🌐 Portfolio **Coming Soon**
