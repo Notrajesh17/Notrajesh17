@@ -18,7 +18,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
+<a href="https://www.linkedin.com/in/rajesh-runiwal-59b8a0215/" target="blank">
 <img align="center"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
 height="30"
