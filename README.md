@@ -80,3 +80,7 @@
 </a>
 
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;NestJS+%7C+Node.js+%7C+AWS;Microservices+%7C+Redis+%7C+PostgreSQL;System+Design+Enthusiast;600%2B+DSA+Problems+Solved" alt="Typing SVG" />
+</p>
