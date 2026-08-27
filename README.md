@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0524,30:4c1d95,60:6d28d9,100:8b5cf6&text=Rajesh%20Runiwal&fontName=Baloo&fontSize=58&fontColor=EDE9FE&fontAlign=50&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems%20%7C%20IIT%20Ropar&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn&stroke=8b5cf6&strokeWidth=0" />
+
 
 <a href="https://github.com/Notrajesh17">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=70&lines=Senior+Software+Engineer+%7C+Backend+Systems;Golang+%7C+Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Redis;Microservices%2C+Clean+Architecture%2C+SOLID;AWS+%7C+Docker+%7C+ECS+%7C+CI%2FCD+%7C+Observability;Building+platforms+that+scale+to+10k%2B+users" alt="Typing SVG" />
