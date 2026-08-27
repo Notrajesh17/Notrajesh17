@@ -238,17 +238,6 @@ The service exposes modular RESTful APIs in Python for authentication and user m
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Notrajesh17&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
 
 ## Contribution Activity
 
